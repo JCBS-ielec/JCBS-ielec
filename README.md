@@ -3,6 +3,7 @@
 Electronic engineering student-Investigating abandonware 🤖
 
 ![Alt Text] (https://i.gifer.com/86KE.gif)
+[Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <!--
 **JCBS-ielec/JCBS-ielec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
