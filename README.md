@@ -3,7 +3,7 @@
 Electronic engineering student-Investigating abandonware 🤖
 
 ![Alt Text] (https://i.gifer.com/86KE.gif)
-[Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+[A](https://static.wikia.nocookie.net/legendofdragoon/images/b/b6/Kongol_Boss2.jpg/revision/latest/scale-to-width/360?cb=20120122214315)
 
 <!--
 **JCBS-ielec/JCBS-ielec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
