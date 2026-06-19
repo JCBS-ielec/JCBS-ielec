@@ -1,9 +1,11 @@
 
 ### Hey there, Juan Carlos Bobadilla is the name 
-Electronic engineering student-Investigating abandonware 🤖
+Electronic engineer from the Pontificia Universidad Javeriana-Investigating abandonware, Hardware solutions,AI models and Computer Vision applications
 
-![Alt Text](https://i.gifer.com/86KE.gif)
-![A](https://static.wikia.nocookie.net/legendofdragoon/images/b/b6/Kongol_Boss2.jpg/revision/latest/scale-to-width/360?cb=20120122214315)
+Latest project: S.E.I.T.R.A.C (Honors Distinction for Undergraduate Thesis): YOLO and NVIDIA Jetson TX2-Based People Counting and Occupancy Monitoring System.
+
+![Field Test during a Concert](https://drive.google.com/file/d/1DFVsjCc_IkxUnO97HckwP9WDqLkExqku/view?usp=sharing)
+
 <!--
 **JCBS-ielec/JCBS-ielec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
