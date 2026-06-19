@@ -4,7 +4,7 @@ Electronic engineer from the Pontificia Universidad Javeriana-Investigating aban
 
 Latest project: S.E.I.T.R.A.C (Honors Distinction for Undergraduate Thesis): YOLO and NVIDIA Jetson TX2-Based People Counting and Occupancy Monitoring System.
 
-![Field Test during a Concert](https://drive.google.com/file/d/1DFVsjCc_IkxUnO97HckwP9WDqLkExqku/view?usp=sharing)
+![Field Test during a Concert](JavCanta.jpeg)
 
 <!--
 **JCBS-ielec/JCBS-ielec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
